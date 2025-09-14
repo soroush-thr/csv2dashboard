@@ -50,8 +50,6 @@ Thumbs.db
 report.html
 current_view.html
 *.html
-examples/
-*.csv
 *.xlsx
 *.xls
 *.csv.gz
